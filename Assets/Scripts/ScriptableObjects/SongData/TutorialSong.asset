@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68399b961b47c34429708d550180d894, type: 3}
+  m_Name: TutorialSong
+  m_EditorClassIdentifier: 
+  song: {fileID: 8300000, guid: 57ae641b652a9d44e8ab28ae2d67392b, type: 3}
+  songName: TutorialSong
+  bpm: 126.4
